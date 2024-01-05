@@ -1,6 +1,6 @@
 {
   "channel_type": "wx",
-  "model": "",
+  "model": "Wenxin-4",
   "open_ai_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
